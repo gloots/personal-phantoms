@@ -13,4 +13,4 @@ plugins {
 setupAnnoyingAPI("900f90e66d", "xyz.srnyx", "2.0.0", "Plugin used for per-player phantom spawning/control")
 spigotAPI("1.13")
 repository(Repository.PLACEHOLDER_API)
-dependencies.compileOnly("me.clip", "placeholderapi", "2.11.3")
+dependencies.compileOnly("me.clip", "placeholderapi", "2.11.6")
